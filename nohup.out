@@ -1,0 +1,97 @@
+[33m[nodemon] 2.0.7[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): src/**/*[39m
+[33m[nodemon] watching extensions: js[39m
+[32m[nodemon] starting `node src/server.js`[39m
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:202:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+[33m[nodemon] 2.0.7[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): src/**/*[39m
+[33m[nodemon] watching extensions: js[39m
+[32m[nodemon] starting `node src/server.js`[39m
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:202:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+[33m[nodemon] 2.0.7[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): src/**/*[39m
+[33m[nodemon] watching extensions: js[39m
+[32m[nodemon] starting `node src/server.js`[39m
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:202:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+[33m[nodemon] 2.0.7[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): src/**/*[39m
+[33m[nodemon] watching extensions: js[39m
+[32m[nodemon] starting `node src/server.js`[39m
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:202:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:539:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+🚀 Server running on port 3000!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Duplicate entry 'gdekhhhh4544' for key 'username'
+[Error] Error: Endpoint Not Found
+[Error] Error: Endpoint Not Found
+[Error] Error: Endpoint Not Found
+[Error] Error: Endpoint Not Found
+[Error] Error: Endpoint Not Found
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Endpoint Not Found
+[Error] Error: Endpoint Not Found
+[Error] Error: Endpoint Not Found
+[Error] Error: Endpoint Not Found
+[Error] Error: Endpoint Not Found
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Endpoint Not Found
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
+[Error] Error: Access denied. No credentials sent!
