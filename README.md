@@ -22,7 +22,7 @@
 5) updateAnItem (requires HotelAdmin authorization)
 6) deleteAnItem (requires HotelAdmin authorization)
 
-Middleware files added to existing code to implement the above Opeartions : itemValidator.middleware.js
+Middleware files added to existing code to implement the above Operations : itemValidator.middleware.js
 
 ### Orders
 
@@ -32,4 +32,4 @@ Middleware files added to existing code to implement the above Opeartions : item
 4) updateMyOrder (requires NormalUser authorization)
 5) deleteMyOrder (requires NormalUser authorization)
 
-Middleware files added to existing code to implement the above Opeartions : orderValidator.middleware.js
+Middleware files added to existing code to implement the above Operations : orderValidator.middleware.js
